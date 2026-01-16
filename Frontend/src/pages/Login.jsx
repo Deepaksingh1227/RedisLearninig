@@ -80,7 +80,7 @@ const Login = () => {
             to="/signup"
             className="text-blue-500 font-medium hover:underline"
           >
-            Signup here
+            Signup here...
           </Link>
         </p>
       </div>
